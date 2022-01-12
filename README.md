@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hii Everyone  👋
 
-<!--
-**krati-tam/krati-tam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Krati Tamrakar.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 currently pursuing a MCA degree from Shri Govindram Seksariya Institute of Technology and Science(SGSITS), indore.
+- 🌱 currently learning about Reactjs which is a well-known library of javascript, used for creating user interfaces.
+- 👯 Apart from this i love to solve DSA problems in java with my coding skill. 
+- 🤔 I’m always looking for opportunities to work on exciting different technologies. 
+- 💬 Ask me about anything you want.
+- 📫 How to reach me: Linkedin :- https://www.linkedin.com/in/krati-tamrakar-189b631ba/
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: Travelling and exploring the world is my personal hobby.
 -->
