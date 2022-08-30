@@ -1,6 +1,6 @@
 # Hii Everyone  👋
 
-I am Krati Tamrakar.
+I am Krati Tamrakar,
 Working as Programmer Analyst Trainee at Cognizant.
 
 - 🔭 Completed MCA degree from Shri Govindram Seksariya Institute of Technology and Science(SGSITS), indore.
