@@ -1,9 +1,9 @@
 # Hii Everyone  👋
 
 I am Krati Tamrakar.
+Working as Programmer Analyst Trainee at Cognizant.
 
-
-- 🔭 currently pursuing a MCA degree from Shri Govindram Seksariya Institute of Technology and Science(SGSITS), indore.
+- 🔭 Completed MCA degree from Shri Govindram Seksariya Institute of Technology and Science(SGSITS), indore.
 - 🌱 currently learning about Reactjs which is a well-known library of javascript, used for creating user interfaces.
 - 👯 Apart from this i love to solve DSA problems with java. 
 - 🤔 I’m always looking for opportunities to work on exciting different technologies. 
