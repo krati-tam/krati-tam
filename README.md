@@ -8,7 +8,7 @@ Working as Programmer Analyst at Cognizant.
 - 👯 Apart from this i love to solve DSA problems with java. 
 - 🤔 I’m always looking for opportunities to work on exciting different technologies. 
 - 💬 Ask me about anything you want.
-- 📫 You can reach out to me: Linkedin :- https://www.linkedin.com/in/krati-tamrakar-189b631ba/
+- 📫 You can reach out to me on Linkedin :- https://www.linkedin.com/in/krati-tamrakar-189b631ba/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Travelling and exploring the world is my personal hobby.
 
